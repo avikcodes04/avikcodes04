@@ -81,14 +81,6 @@ Full-stack production website using **React.js, AWS, and OpenAI GPT**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aviksinha&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviksinha&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
