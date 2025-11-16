@@ -87,7 +87,7 @@ Full-stack production website using **React.js, AWS, and OpenAI GPT**
 - Email: **aviksinha941@gmail.com**  
 - LinkedIn: https://www.linkedin.com/in/avik-sinha-a6a336251/  
 - GitHub: https://github.com/aviksinha  
-- Portfolio: Coming Soon  
+- Portfolio: https://aviksinhaportfolio.netlify.app/
 
 ---
 
